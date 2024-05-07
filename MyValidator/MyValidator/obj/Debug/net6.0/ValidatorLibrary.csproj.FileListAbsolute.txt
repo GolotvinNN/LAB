@@ -1,0 +1,24 @@
+C:\C#\ValidatorLibrary\ValidatorLibrary\obj\Debug\net6.0\ValidatorLibrary.csproj.AssemblyReference.cache
+C:\C#\ValidatorLibrary\ValidatorLibrary\obj\Debug\net6.0\ValidatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ValidatorLibrary\ValidatorLibrary\obj\Debug\net6.0\ValidatorLibrary.AssemblyInfoInputs.cache
+C:\C#\ValidatorLibrary\ValidatorLibrary\obj\Debug\net6.0\ValidatorLibrary.AssemblyInfo.cs
+C:\C#\ValidatorLibrary\ValidatorLibrary\obj\Debug\net6.0\ValidatorLibrary.csproj.CoreCompileInputs.cache
+C:\C#\ValidatorLibrary\ValidatorLibrary\bin\Debug\net6.0\ValidatorLibrary.deps.json
+C:\C#\ValidatorLibrary\ValidatorLibrary\bin\Debug\net6.0\ValidatorLibrary.dll
+C:\C#\ValidatorLibrary\ValidatorLibrary\bin\Debug\net6.0\ValidatorLibrary.pdb
+C:\C#\ValidatorLibrary\ValidatorLibrary\obj\Debug\net6.0\ValidatorLibrary.dll
+C:\C#\ValidatorLibrary\ValidatorLibrary\obj\Debug\net6.0\refint\ValidatorLibrary.dll
+C:\C#\ValidatorLibrary\ValidatorLibrary\obj\Debug\net6.0\ValidatorLibrary.pdb
+C:\C#\ValidatorLibrary\ValidatorLibrary\obj\Debug\net6.0\ref\ValidatorLibrary.dll
+C:\Users\nikit\OneDrive\Рабочий стол\ValidatorLibrary\ValidatorLibrary\bin\Debug\net6.0\ValidatorLibrary.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\ValidatorLibrary\ValidatorLibrary\bin\Debug\net6.0\ValidatorLibrary.dll
+C:\Users\nikit\OneDrive\Рабочий стол\ValidatorLibrary\ValidatorLibrary\bin\Debug\net6.0\ValidatorLibrary.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\ValidatorLibrary\ValidatorLibrary\obj\Debug\net6.0\ValidatorLibrary.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\ValidatorLibrary\ValidatorLibrary\obj\Debug\net6.0\ValidatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\ValidatorLibrary\ValidatorLibrary\obj\Debug\net6.0\ValidatorLibrary.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\ValidatorLibrary\ValidatorLibrary\obj\Debug\net6.0\ValidatorLibrary.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\ValidatorLibrary\ValidatorLibrary\obj\Debug\net6.0\ValidatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\ValidatorLibrary\ValidatorLibrary\obj\Debug\net6.0\ValidatorLibrary.dll
+C:\Users\nikit\OneDrive\Рабочий стол\ValidatorLibrary\ValidatorLibrary\obj\Debug\net6.0\refint\ValidatorLibrary.dll
+C:\Users\nikit\OneDrive\Рабочий стол\ValidatorLibrary\ValidatorLibrary\obj\Debug\net6.0\ValidatorLibrary.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\ValidatorLibrary\ValidatorLibrary\obj\Debug\net6.0\ref\ValidatorLibrary.dll
